@@ -38,4 +38,4 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 ### Available Blogs
 
-![Radix-4_Booth_Multiplier](https://belfortxp.github.io/Radix-4_Booth_Multiplier/)
+[Radix-4_Booth_Multiplier](https://belfortxp.github.io/Radix-4_Booth_Multiplier/)
